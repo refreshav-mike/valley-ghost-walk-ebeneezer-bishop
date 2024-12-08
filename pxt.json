@@ -1,0 +1,29 @@
+{
+    "name": "valley ghost walk - ebeneezer bishop",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.57",
+        "tag": "v1.12.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/50c17cec0d73d32911acd1633e6ce81b85ed2c3a",
+        "target": "1.12.57",
+        "pxt": "8.5.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
